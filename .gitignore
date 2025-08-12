@@ -1,0 +1,20 @@
+
+# Flutter
+my_first_app/build/
+my_first_app/.dart_tool/
+my_first_app/.flutter-plugins
+my_first_app/.flutter-plugins-dependencies
+my_first_app/.pub-cache/
+my_first_app/ios/Pods/
+my_first_app/ios/Runner.xcworkspace/
+my_first_app/ios/Flutter/ephemeral/
+my_first_app/windows/ephemeral/
+my_first_app/linux/ephemeral/
+my_first_app/macos/ephemeral/
+
+# Node.js
+calculator_backend/node_modules/
+calculator_backend/.env
+
+# IDE
+.idea/
